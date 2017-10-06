@@ -1,9 +1,0 @@
-authentication
--Cookie
--Token
--Signature
-
-
-Cookie
-
-origin,referer Http , samesite
